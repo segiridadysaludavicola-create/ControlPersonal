@@ -1,1 +1,1 @@
-1.1|https://github.com/segiridadysaludavicola-create/ControlPersonal/releases/download/v1.0/ColtrolPersonal.4.apk
+1.0|https://github.com/segiridadysaludavicola-create/ControlPersonal/releases/download/v1.0/ColtrolPersonal.4.apk
